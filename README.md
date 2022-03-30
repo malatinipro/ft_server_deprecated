@@ -1,8 +1,9 @@
-# ✅ Ft_Server
-Ft_Server (42cursus) 2020-2021
+# ft_server 📚
+ft_Server 2021 (Common Core)
 
 - Actual Status : Finished
-- Result        : 100%
+- Result        : 100% (maximum mark, validated on 10/01/2021)
+
  > CMD build:<br>
  > `$> docker build -t name .`<br>
  > CMD run:<br>
@@ -21,5 +22,4 @@ Utils :
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 This is my ft_server project from the 42 cursus,
-need help:
-malatini@student.42.fr
+need help: malatini@student.42.fr
