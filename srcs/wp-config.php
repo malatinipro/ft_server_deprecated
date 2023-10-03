@@ -7,6 +7,7 @@ define( 'DB_HOST',     'localhost' );
 define( 'DB_CHARSET',  'utf8' );
 define( 'DB_COLLATE',  '' );
 
+// Could be filled but is not necessary
 define( 'AUTH_KEY',         '' );
 define( 'SECURE_AUTH_KEY',  '' );
 define( 'LOGGED_IN_KEY',    '' );
