@@ -1,4 +1,4 @@
-name: Makefile CI
+name: Ubuntu make
 
 on:
   push:
@@ -14,8 +14,5 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: Build image
+    - name: Build
       run: make
-
-    - name: Run container
-      run: make r
